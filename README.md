@@ -1,5 +1,7 @@
 # Better-Story-Timer
 
+![Better Story Timer banner](banner.png)
+
 # Better Story Timer — The Blood of Dawnwalker Mod
 
 [![Latest Release](https://img.shields.io/github/v/release/IdentityCuckoo/Better-Story-Timer?style=flat-square&color=red&label=latest)](https://github.com/YOUR_USERNAME/Better-Story-Timer/releases/latest)
